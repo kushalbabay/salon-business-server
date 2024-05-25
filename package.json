@@ -1,0 +1,29 @@
+{
+  "name": "salon-business-server",
+  "version": "1.0.0",
+  "description": "Salon Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushalbabay/salon-business-server.git"
+  },
+  "author": "Kushal Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushalbabay/salon-business-server/issues"
+  },
+  "homepage": "https://github.com/kushalbabay/salon-business-server#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
